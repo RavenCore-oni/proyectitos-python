@@ -18,6 +18,7 @@ def factorcitobonito():
     global vent_calc
     vent_calc =Tk()    
     vent_calc.config(bg='#C4A9FF')
+    vent_calc.title("Factorial de un numero")
     vent_calc.geometry('500x300')
 
     global entra_fac
